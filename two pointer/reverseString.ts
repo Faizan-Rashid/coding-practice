@@ -29,7 +29,3 @@ function _reverseString(s: string[]): void {
 
   solve(start, end);
 }
-
-const s = ["h", "e", "l", "l", "o"];
-
-console.log(_reverseString(s));
