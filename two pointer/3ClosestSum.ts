@@ -23,12 +23,12 @@ Constraints:
 -1000 <= nums[i] <= 1000
 -104 <= target <= 104 */
 
-function threeSumClosest(nums: number[], target: number): number {
+// function threeSumClosest(nums: number[], target: number): number {
    
-}
+// }
 
 
 
-console.log(
-  threeSumClosest([-84, 92, 26, 19, -7, 9, 42, -51, 8, 30, -100, -13, -38], 78)
-);
+// console.log(
+//   threeSumClosest([-84, 92, 26, 19, -7, 9, 42, -51, 8, 30, -100, -13, -38], 78)
+// );
